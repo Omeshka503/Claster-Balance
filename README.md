@@ -16,6 +16,8 @@
 ![Проверка simpl-ов](/img/C&B3.JPG)
 
 2. `Проверка HAProxy`
+    "https://config/haproxy.cfg"
+
    ![Проверка haproxy](/img/C&B4.JPG)
 
 ### Задание 2
@@ -36,4 +38,5 @@
 ![Проверка simpl-ов](/img/C&B6.JPG)
 
 2. `Проверка HAProxy`
+    "https://config/haproxy2.cfg"
    ![Проверка haproxy](/img/C&B7.JPG)
