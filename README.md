@@ -16,7 +16,7 @@
 ![Проверка simpl-ов](/img/C&B3.JPG)
 
 2. `Проверка HAProxy`
-    "https://config/haproxy.cfg"
+   [Конфигурация HAProxy](https://github.com/Omeshka503/Claster-Balance/blob/main/config/haproxy.cfg)
 
    ![Проверка haproxy](/img/C&B4.JPG)
 
@@ -38,5 +38,6 @@
 ![Проверка simpl-ов](/img/C&B6.JPG)
 
 2. `Проверка HAProxy`
-    "https://config/haproxy2.cfg"
+   [Конфигурация HAProxy 2](https://github.com/Omeshka503/Claster-Balance/blob/main/config/haproxy2.cfg)
+
    ![Проверка haproxy](/img/C&B7.JPG)
